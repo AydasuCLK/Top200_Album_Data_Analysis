@@ -6,7 +6,7 @@ https://aydasuclk.github.io/Top200_Album_Data_Analysis/
 
 ## GitHub Deposu
 
-https://github.com/AydasuCLK/Spotify_TOP200_Album_Analysis
+https://github.com/AydasuCLK/Top200_Album_Data_Analysis/
 
 ## Proje Hakkında
 
