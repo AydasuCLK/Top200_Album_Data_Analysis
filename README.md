@@ -2,7 +2,7 @@
 
 ## Canlı Rapor
 
-https://aydasuclk.github.io/Spotify_TOP200_Album_Analysis/
+https://aydasuclk.github.io/Top200_Album_Data_Analysis/
 
 ## GitHub Deposu
 
